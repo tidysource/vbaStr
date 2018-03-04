@@ -1,4 +1,4 @@
-Attribute VB_Name = "str_"
+Attribute VB_Name = "VBA_require_str"
 Option Explicit
 
 '=============================
